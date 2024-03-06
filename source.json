@@ -4,22 +4,19 @@
       "Name": "omb",
       "Description": "Система бекапов osu!",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/omb.zip",
-      "InitialScript": "@echo off && start OsuMapsBackup.exe",
-      "ScriptDirectory": "local"
+      "InitialScript": "@echo off && start OsuMapsBackup.exe"
     },
     {
       "Name": "simpletcpc",
       "Description": "Консольный локальный чат",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/simpletcpc.zip",
-      "InitialScript": "@echo off && call SimpleNetworkCommunication.exe",
-      "ScriptDirectory": "local"
+      "InitialScript": "@echo off && call SimpleNetworkCommunication.exe"
     },
     {
       "Name": "timinganlyz",
       "Description": "Автоматическое определение BPM и оффсета аудио (Для осу мапперов)",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/timinganlyz.zip",
-      "InitialScript": "@echo off && start timinganlyz.exe",
-      "ScriptDirectory": "local"
+      "InitialScript": "@echo off && start timinganlyz.exe"
     },
   ]
 }
