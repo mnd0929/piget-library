@@ -1,0 +1,25 @@
+{
+  "Scripts": [
+    {
+      "Name": "omb",
+      "Description": "Система бекапов osu!",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/omb-piget-resources.zip",
+      "Script": "@echo off && start OsuMapsBackup.exe",
+      "ScriptDirectory": "local"
+    },
+    {
+      "Name": "<Script Name 2>",
+      "Description": "<Script Description>",
+      "Resources": "<Link to zip archive with resources>",
+      "Script": "<Batch code>",
+      "ScriptDirectory": "local"
+    },
+    {
+      "Name": "<Script Name 3>",
+      "Description": "<Script Description>",
+      "Resources": "<Link to zip archive with resources>",
+      "Script": "<Batch code>",
+      "ScriptDirectory": "local"
+    },
+  ]
+}
