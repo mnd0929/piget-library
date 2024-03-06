@@ -18,5 +18,14 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/timinganlyz.zip",
       "InitialScript": "@echo off && start timinganlyz.exe"
     },
+
+
+    
+    {
+      "Name": "zedos",
+      "Description": "Скачивание, распаковка и запуск установщика ZeDos 6.1.0",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/zedos.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
   ]
 }
