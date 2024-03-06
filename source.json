@@ -15,10 +15,10 @@
       "ScriptDirectory": "local"
     },
     {
-      "Name": "<Script Name 3>",
-      "Description": "<Script Description>",
-      "Resources": "<Link to zip archive with resources>",
-      "Script": "<Batch code>",
+      "Name": "timinganlyz",
+      "Description": "Автоматическое определение BPM и оффсета аудио (Для осу мапперов)",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/timinganlyz.zip",
+      "Script": "@echo off && start timinganlyz.exe",
       "ScriptDirectory": "local"
     },
   ]
