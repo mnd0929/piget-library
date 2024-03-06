@@ -1,0 +1,9 @@
+{
+  "LibraryDirectory": null,
+  "Url": null,
+  "ScriptListAddresses": [
+    "<link to text file with Source 1>",
+    "<link to text file with Source 2>"
+  ],
+  "Name": "piget"
+}
