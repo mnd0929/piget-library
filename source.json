@@ -3,15 +3,15 @@
     {
       "Name": "omb",
       "Description": "Система бекапов osu!",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/omb-piget-resources.zip",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/omb.zip",
       "Script": "@echo off && start OsuMapsBackup.exe",
       "ScriptDirectory": "local"
     },
     {
-      "Name": "<Script Name 2>",
-      "Description": "<Script Description>",
-      "Resources": "<Link to zip archive with resources>",
-      "Script": "<Batch code>",
+      "Name": "simpletcpc",
+      "Description": "Консольный локальный чат",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/simpletcpc.zip",
+      "Script": "@echo off && call SimpleNetworkCommunication.exe",
       "ScriptDirectory": "local"
     },
     {
