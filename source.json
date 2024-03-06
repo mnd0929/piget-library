@@ -13,7 +13,7 @@
       "InitialScript": "@echo off && call SimpleNetworkCommunication.exe"
     },
     {
-      "Name": "timinganlyz",
+      "Name": "timinganalyz",
       "Description": "Автоматическое определение BPM и оффсета аудио (Для осу мапперов)",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/timinganlyz.zip",
       "InitialScript": "@echo off && start timinganlyz.exe"
