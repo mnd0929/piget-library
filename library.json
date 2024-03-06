@@ -2,8 +2,7 @@
   "LibraryDirectory": null,
   "Url": null,
   "ScriptListAddresses": [
-    "<link to text file with Source 1>",
-    "<link to text file with Source 2>"
+    "https://raw.githubusercontent.com/mnd0929/piget-library/main/source.json"
   ],
   "Name": "piget"
 }
