@@ -181,7 +181,7 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "notepad.zip",
+      "Name": "notepad",
       "Description": "Скачивание и запуск установщика ZeDos 6.1.0",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/notepad.zip",
       "InitialScript": "@echo off && call installer.bat"
