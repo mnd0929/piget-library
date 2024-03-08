@@ -118,7 +118,7 @@
       "Name": "telegram",
       "Description": "Скачивание и запуск установщика telegram",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/telegram.zip",
-      "InitialScript": "@echo off && call installer.bat"
+      "InitialScript": "@echo off && echo Loading Installer... powershell -Command "Invoke-WebRequest https://github.com/telegramdesktop/tdesktop/releases/download/v4.15.1/tsetup.4.15.1.exe -OutFile setup.exe" && echo Launching the installer... && start setup.exe"
     },
     {
       "Name": "steam",
