@@ -312,5 +312,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/7z.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
+    {
+      "Name": "winact",
+      "Description": "Автоматическая активация Windows по способу 2024 года",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winact.zip",
+      "InitialScript": "@echo off && call installer.bat"
+    },
   ]
 }
