@@ -2,7 +2,7 @@
   "LibraryDirectory": null,
   "Url": null,
   "ScriptListAddresses": [
-    "https://raw.githubusercontent.com/mnd0929/piget-library/main/source.json"
+    "https://raw.githubusercontent.com/mnd0929/piget-library/main/source.pgtsc"
   ],
   "Name": "piget",
   "Description": "Стандартный набор скриптов Piget"
