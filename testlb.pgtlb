@@ -1,0 +1,9 @@
+{
+  "LibraryDirectory": null,
+  "Url": null,
+  "ScriptListAddresses": [
+    "https://raw.githubusercontent.com/mnd0929/piget-library/main/source.pgtsc"
+  ],
+  "Name": "testlb",
+  "Description": "Стандартный набор скриптов Piget (test)"
+}
