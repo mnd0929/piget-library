@@ -321,8 +321,14 @@
     {
       "Name": "neuroramashamp",
       "Description": "Визуальная новелла про нейросаму от шампуня",
-      "Resources": "hhttps://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/SbguFlj7P0ZpXA",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/SbguFlj7P0ZpXA",
       "InitialScript": "@echo off && cd Neurosama-1.0-win && start Neurosama.exe"
+    },
+    {
+      "Name": "python3.12.2",
+      "Description": "Запуск установщика python3.12.2",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/n4r4cO6F85IFYw",
+      "InitialScript": "@echo off && start python-3.12.2-amd64.exe"
     },
   ]
 }
