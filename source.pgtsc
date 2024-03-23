@@ -330,5 +330,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/n4r4cO6F85IFYw",
       "InitialScript": "@echo off && start python-3.12.2-amd64.exe"
     },
+    {
+      "Name": "spacesniffer",
+      "Description": "SpaceSniffer. Анализатор дискового пространства. Бесплатный анализатор дискового пространства компьютера от Uderzo Software для платформ Microsoft Windows.",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/SpaceSniffer.zip",
+      "InitialScript": "@echo off && start SpaceSniffer.exe && @echo on"
+    },
   ]
 }
