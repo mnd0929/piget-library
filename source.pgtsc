@@ -279,8 +279,8 @@
     {
       "Name": "discord",
       "Description": "Скачивание и запуск установщика discord",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/discord.zip",
-      "InitialScript": "@echo off && call installer.bat"
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9016/DiscordSetup.exe setup.exe && start setup.exe && @echo on"
     },
     {
       "Name": "chrome",
@@ -341,6 +341,12 @@
       "Description": "Запуск MacOsFlashCreator. desktop alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/mSkeFQFYJ7fpzg; laptop alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/AICV7eHQtLQ2Zg; recovery alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/q6zDsYNbOvtZoA",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/MacOsFlashCreator.zip",
       "InitialScript": "@echo off && start MacOsFlashCreator.exe && @echo on"
+    },
+    {
+      "Name": "protonvpn",
+      "Description": "Запуск установщика Proton VPN. Proton VPN (ранее — ProtonVPN) — условно-бесплатный сервис по поставке услуг виртуальной частной сети (VPN), управляемый швейцарской компанией Proton AG.",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe setup.exe && start setup.exe && @echo on"
     },
   ]
 }
