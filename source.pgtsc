@@ -336,5 +336,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/SpaceSniffer.zip",
       "InitialScript": "@echo off && start SpaceSniffer.exe && @echo on"
     },
+    {
+      "Name": "mosfc",
+      "Description": "Запуск MacOsFlashCreator. desktop alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/mSkeFQFYJ7fpzg; laptop alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/AICV7eHQtLQ2Zg; recovery alt: https://getfile.dokpub.com/yandex/get/https://disk.yandex.com.am/d/q6zDsYNbOvtZoA",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/MacOsFlashCreator.zip",
+      "InitialScript": "@echo off && start MacOsFlashCreator.exe && @echo on"
+    },
   ]
 }
