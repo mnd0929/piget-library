@@ -348,5 +348,11 @@
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe setup.exe && start setup.exe && @echo on"
     },
+    {
+      "Name": "mstore",
+      "Description": "Установка / Восстановление Microsoft Store",
+      "Resources": "",
+      "InitialScript": "@echo off && wsreset -i && @echo on"
+    },
   ]
 }
