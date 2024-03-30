@@ -355,7 +355,7 @@
       "InitialScript": "@echo off && wsreset -i && @echo on"
     },
     {
-      "Name": "ivanlib",
+      "Name": "lenyalib",
       "Description": "Подключение библиотеки от VaneshFiresh с портативными играми",
       "Resources": "",
       "InitialScript": "@echo off && piget library connect https://raw.githubusercontent.com/vaneshfiresh64/vaneshfiresh-library/main/library.pgtlb && @echo on"
