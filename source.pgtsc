@@ -360,5 +360,11 @@
       "Resources": "",
       "InitialScript": "@echo off && piget library connect https://raw.githubusercontent.com/vaneshfiresh64/vaneshfiresh-library/main/library.pgtlb && @echo on"
     },
+    {
+      "Name": "anydesk",
+      "Description": "Бесплатная программа для Windows, которая позволяет удалённо получить доступ к другому компьютеру.",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://download.anydesk.com/AnyDesk.exe AnyDesk.exe && start AnyDesk.exe && @echo on"
+    },
   ]
 }
