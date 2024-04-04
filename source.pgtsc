@@ -366,5 +366,41 @@
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://download.anydesk.com/AnyDesk.exe AnyDesk.exe && start AnyDesk.exe && @echo on"
     },
+    {
+      "Name": "java8",
+      "Description": "Java SE Runtime Environment 8 x64",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jre-8u401-windows-x64.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "java8x86",
+      "Description": "Java SE Runtime Environment 8 x86",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jre-8u401-windows-i586.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "jdk11",
+      "Description": "Java SE Development Kit 11 (LTS)",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-11.0.22_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "jdk17",
+      "Description": "Java SE Development Kit 17 (LTS)",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-17_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "jdk21",
+      "Description": "Java SE Development Kit 21",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-21_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "jdk22",
+      "Description": "Java SE Development Kit 22",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-22_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
+    },
   ]
 }
