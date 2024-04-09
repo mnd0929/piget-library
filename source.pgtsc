@@ -402,5 +402,11 @@
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-22_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
     },
+    {
+      "Name": "quadconverter",
+      "Description": "Конвертер всех форматов видео и аудио",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/QuadConverter.zip",
+      "InitialScript": "@echo off && start QuadConverter.exe && @echo on"
+    },
   ]
 }
