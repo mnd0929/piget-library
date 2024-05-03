@@ -408,5 +408,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/QuadConverter.zip",
       "InitialScript": "@echo off && start QuadConverter.exe && @echo on"
     },
+    {
+      "Name": "arc",
+      "Description": "[ТРЕБУЮТСЯ ПРАВА АДМИНИСТРАТОРА] Установка браузера Arc на Windows 10",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/arcinstall.zip",
+      "InitialScript": "@echo off && taskkill /f /t /im arc.exe && call arcwin10-1.2.1.bat && @echo on"
+    },
   ]
 }
