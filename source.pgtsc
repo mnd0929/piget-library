@@ -420,5 +420,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/arcinstall.zip",
       "InitialScript": "@echo off && taskkill /f /t /im arc.exe && call arcwin10-1.2.1.bat && @echo on"
     },
+    {
+      "Name": "vs",
+      "Description": "Запуск установщика Visual Studio",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/VisualStudioSetup.zip",
+      "InitialScript": "@echo off && start VisualStudioSetup.exe && @echo on"
+    },
   ]
 }
