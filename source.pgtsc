@@ -426,11 +426,5 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/VisualStudioSetup.zip",
       "InitialScript": "@echo off && start VisualStudioSetup.exe && @echo on"
     },
-    {
-      "Name": "sonic",
-      "Description": "Запуск установщика Visual Studio",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/VisualStudioSetup.zip",
-      "InitialScript": "@echo off && start VisualStudioSetup.exe && @echo on"
-    },
   ]
 }
