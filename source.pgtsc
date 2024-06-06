@@ -432,5 +432,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/ZeDosGUIv8.zip",
       "InitialScript": "@echo off && start ZeDosGUIv8.exe && @echo on"
     },
+    {
+      "Name": "rufus",
+      "Description": "Бесплатное портативное приложение с открытым исходным кодом для Microsoft Windows, которое можно использовать для форматирования и создания загрузочных USB-накопителей или Live USB. (4.5)",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/rufus-4.5p.zip",
+      "InitialScript": "@echo off && start rufus-4.5p.exe && @echo on"
+    },
   ]
 }
