@@ -31,37 +31,37 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "winrar",
+      "Name": "winrar-install",
       "Description": "Скачивание и запуск установщика winrar",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winrar.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "winget",
+      "Name": "winget-install",
       "Description": "Установка winget",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/winget.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "wallpaper-engine",
+      "Name": "wallpaper-engine-install",
       "Description": "Скачивание и установка Wallpaper Engine (Проверенный кряк)",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/WallpaperEngine.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "vscode",
+      "Name": "vscode-install",
       "Description": "Скачивание и запуск установщика Visual Studio Code",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vscode.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "vmware",
+      "Name": "vmware-install",
       "Description": "Скачивание и запуск установщика VmWare",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vmware.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "vmbox",
+      "Name": "vmbox-install",
       "Description": "Скачивание и запуск установщика VmBox",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/vmbox.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -73,13 +73,13 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "viber",
+      "Name": "viber-install",
       "Description": "Скачивание и запуск установщика viber",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Viber.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "utorrent",
+      "Name": "utorrent-install",
       "Description": "Скачивание и запуск установщика Utorrent",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/utorrent.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -97,13 +97,13 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "tllegacy",
+      "Name": "tllegacy-install",
       "Description": "Скачивание и запуск установщика tllegacy",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/tllegacy.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "tlauncher",
+      "Name": "tlauncher-install",
       "Description": "Скачивание и запуск установщика tlauncher",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/tlauncher.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -115,43 +115,43 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "telegram",
+      "Name": "telegram-install",
       "Description": "Скачивание и запуск установщика telegram",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/telegram.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "steam",
+      "Name": "steam-install",
       "Description": "Скачивание и запуск установщика steam",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/steam.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "spotify",
+      "Name": "spotify-install",
       "Description": "Скачивание и запуск установщика Spotify",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Spotify.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "soundpad",
+      "Name": "soundpad-install",
       "Description": "Установка Soundpad (Проверенный кряк)",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Soundpad.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "rulauncher",
+      "Name": "rulauncher-install",
       "Description": "Скачивание и запуск установщика rulauncher",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/rulauncher.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "qbittorrent",
+      "Name": "qbittorrent-install",
       "Description": "Скачивание и запуск установщика qbittorrent",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/qbittorrent.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "pinwin",
+      "Name": "pinwin-install",
       "Description": "Скачивание и запуск установщика PinWin",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/PinWin.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -163,27 +163,21 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "operagx",
+      "Name": "operagx-install",
       "Description": "Скачивание и запуск установщика OperaGX",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/OperaGX.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "opera",
+      "Name": "opera-install",
       "Description": "Скачивание и запуск установщика Opera",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/Opera.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "obs",
+      "Name": "obs-install",
       "Description": "Скачивание и запуск установщика OBS",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/obs.zip",
-      "InitialScript": "@echo off && call installer.bat"
-    },
-    {
-      "Name": "notepad",
-      "Description": "Скачивание и запуск установщика ZeDos 6.1.0",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/notepad.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
@@ -211,37 +205,37 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "ldplayer",
+      "Name": "ldplayer-install",
       "Description": "Скачивание и запуск установщика ldplayer",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/ldplayer.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "klauncher",
+      "Name": "klauncher-install",
       "Description": "Скачивание и запуск установщика klauncher",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/klauncher.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "jetbrains-rider",
+      "Name": "jetbrains-rider-install",
       "Description": "Скачивание и запуск установщика jetbrains-rider",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-rider.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "jetbrains-dotpeek",
+      "Name": "jetbrains-dotpeek-install",
       "Description": "Скачивание и запуск установщика jetbrains-dotpeek",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-dotpeek.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "jetbrains-clion",
+      "Name": "jetbrains-clion-install",
       "Description": "Скачивание и запуск установщика jetbrains-clion",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/jetbrains-clion.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "hwm",
+      "Name": "hwm-install",
       "Description": "Скачивание и запуск установщика HWM",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/HWMSetup.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -253,7 +247,7 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "git",
+      "Name": "git-install",
       "Description": "Скачивание и запуск установщика git",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/git.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -265,25 +259,25 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "firefox",
+      "Name": "firefox-install",
       "Description": "Скачивание и запуск установщика firefox",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/firefox.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "epic-games-launcher",
+      "Name": "epic-games-launcher-install",
       "Description": "Скачивание и запуск установщика EpicGamesLauncher",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/EpicGamesLauncher.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "discord",
+      "Name": "discord-install",
       "Description": "Скачивание и запуск установщика discord",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9016/DiscordSetup.exe setup.exe && start setup.exe && @echo on"
     },
     {
-      "Name": "chrome",
+      "Name": "chrome-install",
       "Description": "Скачивание и запуск установщика chrome",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/chrome.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -301,13 +295,13 @@
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "arduinoide",
+      "Name": "arduinoide-install",
       "Description": "Скачивание, распаковка и запуск установщика arduinoide",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/arduinoide.zip",
       "InitialScript": "@echo off && call installer.bat"
     },
     {
-      "Name": "7z",
+      "Name": "7z-install",
       "Description": "Скачивание, распаковка и запуск установщика 7zip",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/7z.zip",
       "InitialScript": "@echo off && call installer.bat"
@@ -325,7 +319,7 @@
       "InitialScript": "@echo off && cd Neurosama-1.0-win && start Neurosama.exe"
     },
     {
-      "Name": "python3.12.2",
+      "Name": "python3.12.2-install",
       "Description": "Запуск установщика python3.12.2",
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/n4r4cO6F85IFYw",
       "InitialScript": "@echo off && start python-3.12.2-amd64.exe"
@@ -343,19 +337,19 @@
       "InitialScript": "@echo off && start MacOsFlashCreator.exe && @echo on"
     },
     {
-      "Name": "protonvpn",
+      "Name": "protonvpn-install",
       "Description": "Запуск установщика Proton VPN. Proton VPN (ранее — ProtonVPN) — условно-бесплатный сервис по поставке услуг виртуальной частной сети (VPN), управляемый швейцарской компанией Proton AG.",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe setup.exe && start setup.exe && @echo on"
     },
     {
-      "Name": "mstore",
+      "Name": "mstore-install",
       "Description": "Установка / Восстановление Microsoft Store",
       "Resources": "",
       "InitialScript": "@echo off && wsreset -i && @echo on"
     },
     {
-      "Name": "lenyalib",
+      "Name": "lenyalib-connect",
       "Description": "Подключение библиотеки от VaneshFiresh с портативными играми",
       "Resources": "",
       "InitialScript": "@echo off && piget library connect https://raw.githubusercontent.com/vaneshfiresh64/vaneshfiresh-library/main/library.pgtlb && @echo on"
@@ -367,37 +361,37 @@
       "InitialScript": "@echo off && piget utilities download https://download.anydesk.com/AnyDesk.exe AnyDesk.exe && start AnyDesk.exe && @echo on"
     },
     {
-      "Name": "java8",
+      "Name": "java8-install",
       "Description": "Java SE Runtime Environment 8 x64",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jre-8u401-windows-x64.exe Setup.exe && start Setup.exe && @echo on"
     },
     {
-      "Name": "java8x86",
+      "Name": "java8x86-install",
       "Description": "Java SE Runtime Environment 8 x86",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jre-8u401-windows-i586.exe Setup.exe && start Setup.exe && @echo on"
     },
     {
-      "Name": "jdk11",
+      "Name": "jdk11-install",
       "Description": "Java SE Development Kit 11 (LTS)",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-11.0.22_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
     },
     {
-      "Name": "jdk17",
+      "Name": "jdk17-install",
       "Description": "Java SE Development Kit 17 (LTS)",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-17_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
     },
     {
-      "Name": "jdk21",
+      "Name": "jdk21-install",
       "Description": "Java SE Development Kit 21",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-21_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
     },
     {
-      "Name": "jdk22",
+      "Name": "jdk22-install",
       "Description": "Java SE Development Kit 22",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://dl.comss.org/download/jdk-22_windows-x64_bin.exe Setup.exe && start Setup.exe && @echo on"
@@ -421,7 +415,7 @@
       "InitialScript": "@echo off && taskkill /f /t /im arc.exe && call arcwin10-1.2.1.bat && @echo on"
     },
     {
-      "Name": "vs",
+      "Name": "vs-install",
       "Description": "Запуск установщика Visual Studio",
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/VisualStudioSetup.zip",
       "InitialScript": "@echo off && start VisualStudioSetup.exe && @echo on"
