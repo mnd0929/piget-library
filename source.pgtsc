@@ -432,5 +432,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/rufus-4.5p.zip",
       "InitialScript": "@echo off && start rufus-4.5p.exe && @echo on"
     },
+    {
+      "Name": "wmol",
+      "Description": "Используя программу WakeMeOnLan вы можете использовать технологию Wake on LAN для включения любого количества компьютеров удаленно по сети или через Интернет.",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/wmol.zip",
+      "InitialScript": "@echo off && start WakeMeOnLan.exe && @echo on"
+    },
   ]
 }
