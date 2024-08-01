@@ -438,5 +438,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/wmol.zip",
       "InitialScript": "@echo off && start WakeMeOnLan.exe && @echo on"
     },
+    {
+      "Name": "gbdpi",
+      "Description": "Это программное обеспечение предназначено для обхода систем глубокой проверки пакетов, используемых многими интернет-провайдерами, которые блокируют доступ к определенным веб-сайтам.",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/gbdpi.zip",
+      "InitialScript": "@echo off && call starter.bat && @echo on"
+    },
   ]
 }
