@@ -444,5 +444,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/gbdpi.zip",
       "InitialScript": "@echo off && call starter.bat && @echo on"
     },
+    {
+      "Name": "bsd",
+      "Description": "Безопасная версия BeautySD.exe",
+      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/BeautySD.zip",
+      "InitialScript": "@echo off && start BeautySD.exe && @echo on"
+    },
   ]
 }
