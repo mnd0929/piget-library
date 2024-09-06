@@ -118,7 +118,7 @@
       "Name": "telegram-installer",
       "Description": "Скачивание и запуск установщика telegram",
       "Resources": "",
-      "InitialScript": "@echo off && piget tools download -u https://dl.comss.org/download/jdk-22_windows-x64_bin.exe -p Setup.exe && start Setup.exe"
+      "InitialScript": "@echo off && piget tools download -u https://telegram.org/dl/desktop/win64 -p Setup.exe && start Setup.exe"
     },
     {
       "Name": "steam-installer",
