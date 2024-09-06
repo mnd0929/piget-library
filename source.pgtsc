@@ -117,8 +117,8 @@
     {
       "Name": "telegram-installer",
       "Description": "Скачивание и запуск установщика telegram",
-      "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/telegram.zip",
-      "InitialScript": "@echo off && call installer.bat"
+      "Resources": "",
+      "InitialScript": "@echo off && piget tools download -u https://dl.comss.org/download/jdk-22_windows-x64_bin.exe -p Setup.exe && start Setup.exe"
     },
     {
       "Name": "steam-installer",
