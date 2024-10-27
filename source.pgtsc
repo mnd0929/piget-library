@@ -453,8 +453,8 @@
     {
       "Name": "mas",
       "Description": "Microsoft Activation Scripts (MAS)",
-      "Resources": "",
-      "InitialScript": "@echo off && powershell -Command "& ({Start-Process powershell -Verb RunAs -ArgumentList '-ExecutionPolicy Bypass -NoExit -Command irm https://get.activated.win | iex'})" && @echo on"
+      "Resources": "https://raw.githubusercontent.com/mnd0929/piget-library/refs/heads/main/resources/mas.zip",
+      "InitialScript": "@echo off && call installer.bat && @echo on"
     },
   ]
 }
