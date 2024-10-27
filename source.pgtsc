@@ -450,5 +450,11 @@
       "Resources": "https://github.com/mnd0929/piget-library/raw/main/resources/BeautySD.zip",
       "InitialScript": "@echo off && start BeautySD.exe && @echo on"
     },
+    {
+      "Name": "mas",
+      "Description": "Microsoft Activation Scripts (MAS)",
+      "Resources": "",
+      "InitialScript": "@echo off && powershell -Command "& ({Start-Process powershell -Verb RunAs -ArgumentList '-ExecutionPolicy Bypass -NoExit -Command irm https://get.activated.win | iex'})" && @echo on"
+    },
   ]
 }
