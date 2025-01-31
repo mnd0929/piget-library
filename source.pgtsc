@@ -468,5 +468,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/Y1Ua35TVi1ifXA",
       "InitialScript": "@echo off && start MyTestProject.exe"
     },
+    {
+      "Name": "hitomi",
+      "Description": "Утилита для загрузки изображений/видео/музыки/текста с различных веб-сайтов и многого другого",
+      "Resources": "",
+      "InitialScript": "@echo off && piget tools download -u "https://github.com/a-sync/7z-extra/raw/refs/heads/master/x64/7za.exe" -p 7z.exe && piget tools download -u "https://github.com/KurtBestor/Hitomi-Downloader/releases/latest/download/hitomi_downloader_GUI.zip" -p package.zip && 7z.exe e package.zip -y && start hitomi_downloader_GUI.exe"
+    },
   ]
 }
