@@ -474,5 +474,11 @@
       "Resources": "",
       "InitialScript": "@echo off && piget tools download -u https://github.com/a-sync/7z-extra/raw/refs/heads/master/x64/7za.exe -p 7z.exe && piget tools download -u https://github.com/KurtBestor/Hitomi-Downloader/releases/latest/download/hitomi_downloader_GUI.zip -p package.zip && 7z.exe e package.zip -y && start hitomi_downloader_GUI.exe"
     },
+    {
+      "Name": "sd-webui",
+      "Description": "Веб-интерфейс для Stable Diffusion, реализованный с использованием библиотеки Gradio",
+      "Resources": "",
+      "InitialScript": "@echo off && winget install Python.Python.3.10 Git.Git && piget tools download -u https://github.com/a-sync/7z-extra/raw/refs/heads/master/x64/7za.exe -p 7z.exe && piget tools download -u https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/download/v1.0.0-pre/sd.webui.zip -p package.zip && 7z.exe x package.zip && call update.bat && call run.bat"
+    }
   ]
 }
