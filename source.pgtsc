@@ -485,6 +485,12 @@
       "Description": "Оверлей для запуска шейдеров GPU поверх рабочего стола Windows",
       "Resources": "",
       "InitialScript": "@echo off && piget tools download -u https://github.com/a-sync/7z-extra/raw/refs/heads/master/x64/7za.exe -p 7z.exe && piget tools download -u https://github.com/mausimus/ShaderGlass/releases/download/v1.0/ShaderGlass-1.0-win-x64.zip -p package.zip && 7z.exe x package.zip && start ShaderGlass.exe"
+    },
+    {
+      "Name": "cdr",
+      "Description": "CrystalDiskInfo - бесплатная утилита для диагностики жёстких дисков. Она отслеживает техническое состояние и осуществляет контроль температуры HDD/SSD дисков, ведёт мониторинг значений S.M.A.R.T. и позволяет строить их графики",
+      "Resources": "",
+      "InitialScript": "@echo off && piget tools download -u https://github.com/a-sync/7z-extra/raw/refs/heads/master/x64/7za.exe -p 7z.exe && piget tools download -u https://dl.comss.org/download/CrystalDiskInfo9_6_1.zip -p package.zip && 7z.exe x package.zip && start DiskInfo64S.exe"
     }
   ]
 }
