@@ -497,6 +497,13 @@
       "Description": "RULAUNCHER - он же Рулаунчер это бесплатный лаунчер для Minecraft, он позволяет скачивать и запускать все версии игры, не требует наличия лицензии (пиратский лаунчер), обладает уникальными возможностями",
       "Resources": "",
       "InitialScript": "@echo off && piget utilities download https://rulauncher.com/get/updater/RuLauncher.Updater.exe Setup.exe && start Setup.exe && @echo on"
+    },
+    {
+      "Name": "snowflake-installer",
+      "Description": "Графический SFTP-клиент и эмулятор терминала с полезными утилитами",
+      "Resources": "",
+      "InitialScript": "@echo off && piget utilities download https://github.com/subhra74/snowflake/releases/latest/download/snowflake.msi Setup.exe && start Setup.exe && @echo on"
     }
   ]
 }
+
