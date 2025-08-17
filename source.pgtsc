@@ -502,8 +502,9 @@
       "Name": "snowflake-installer",
       "Description": "Графический SFTP-клиент и эмулятор терминала с полезными утилитами",
       "Resources": "",
-      "InitialScript": "@echo off && piget utilities download https://github.com/subhra74/snowflake/releases/latest/download/snowflake.msi Setup.exe && start Setup.exe && @echo on"
+      "InitialScript": "@echo off && piget utilities download https://github.com/subhra74/snowflake/releases/latest/download/snowflake.msi Setup.exe && start Setup.msi && @echo on"
     }
   ]
 }
+
 
